@@ -41,7 +41,7 @@ Futuramente
 </p>
 
 # Equipe
->file:///C:/Users/HP/Documents/Faculdade/4%C2%BA%20Semestre/4%C2%AA%20Sprint/Apresenta%C3%A7%C3%A3o%204%C2%AA%20Sprint%20-%204%C2%BA%20Semestre/Slide2.JPG
+>
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
