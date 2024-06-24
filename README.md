@@ -64,13 +64,31 @@ Sprint | Previsão | Status| Histórico|
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+° Sprint 1
+>Análise de cenário e proposta inicial
+
+° Sprint 2
+>Apresentação de Métodos de Planejamento
+
+° Sprint 3
+>Apresentação de conteudos especificos de planejmaneto de produção
+
+° Sprint 4
+>Apresentação de Conteudo solicitado pelo cliente e indicação de quadro de Gestão a vista para reuniões.
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+> ° Power Point
+
+>°  CapCut
+
+>° Microsoft Teams
+
+>° Scrum
+
+>° Brainstorm
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+> Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
 
 # Cronograma das Sprints
 
