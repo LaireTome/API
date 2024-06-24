@@ -139,8 +139,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
