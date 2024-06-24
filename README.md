@@ -32,13 +32,12 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
-> Concluido
+
 
 # Micro Certificações
-Futuramente
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-Green"/>
 </p>
 
 # Equipe
@@ -52,17 +51,11 @@ Futuramente
 
 ## Sprint 1
 >https://youtu.be/P4fUauxaqyQ
-![Slide1](https://github.com/LaireTome/API/assets/134020559/d2f722f1-1694-4954-9b80-378055721f9f)
-
-
+![Apresentação Sprin1- 4 Semestre (1)](https://github.com/LaireTome/API/assets/134020559/802c1323-8171-4f07-ada3-6da830e4a407)
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+>https://youtu.be/KubaRH18MVE
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
 
 ## Sprint 3
 >Descrever aqui o que foi entregue na sprint
