@@ -50,36 +50,17 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->https://youtu.be/P4fUauxaqyQ
-![Apresentação Sprin1- 4 Semestre (1)](https://github.com/LaireTome/API/assets/134020559/802c1323-8171-4f07-ada3-6da830e4a407)
+[![SPRINT 1](https://img.youtube.com/vi/P4fUauxaqyQ/0.jpg)](https://youtu.be/P4fUauxaqyQ)
 
 ## Sprint 2
->https://youtu.be/KubaRH18MVE
-
+[![SPRINT 1](https://img.youtube.com/vi/KubaRH18MVE/0.jpg)](https://youtu.be/KubaRH18MVE)
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/3oOSCpzfUg8/0.jpg)](https://youtu.be/3oOSCpzfUg8)
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/ImkzLlH76no/0.jpg)](https://youtu.be/ImkzLlH76no)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
-</p>
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
