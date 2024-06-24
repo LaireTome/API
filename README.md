@@ -44,10 +44,6 @@ Futuramente
 >![Slide2](https://github.com/LaireTome/API/assets/134020559/d4618747-9b5c-4d3c-b143-ec35a0a5b600)
 
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
-
 # Objetivo do Projeto
 >Descrever aqui os objetivos desse projeto
 
