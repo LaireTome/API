@@ -113,16 +113,29 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>- [x] "Entendimento do cenário atual"
+>- [x] "Pesquisa em grupo"
+>- [x] "Brainstorm"
+>- [X] "Criação do conteudo" 
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> - [x] "Pesquisa de conteudo"
+> - [x] "Avaliação do temas levantados"
+> - [x] "Definição de tema"
+> - [x] "Criação da apresentação"
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> - [x] "Reunião com Cliente"
+> - [x] "Definição de tema"
+> - [x] "Pesquisa aprofundade dos assuntos"
+> - [x] "Criação da apresentação"
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> - [x] "Pesquisa aprofundada de temas pedido pelo cliente"
+> - [x] "Definição de conteúdo a ser apresentado"
+> - [x] "Criação de quadro de gestão a vista"
+> - [x] "Definição da utilização do quadro"
+> - [x] "Criação da apresentação"
 
 
 # Competências desenvolvidas
