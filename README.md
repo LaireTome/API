@@ -99,11 +99,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
+![Matriz de Responsabilidade](https://github.com/LaireTome/API/assets/134020559/f263437a-d987-4e2f-b494-6c0e4a8fe72e)
 
 ## Burndown
 >Colocar aqui Burndown do projeto
