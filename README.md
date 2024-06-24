@@ -45,7 +45,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
->Objetivo do projeto é aprimorar os conhecimentos em analise de forecast e planejamneto de produção
+>Objetivo do projeto é aprimorar os conhecimentos em analise de forecast e planejamneto de produção, afim de otimizar todo o planejamento e melhorar sua acertividade evitando perdas e garantindo uma maior produtividade e lucro.
 
 # Funcionalidades e Demonstrações das Sprints
 
