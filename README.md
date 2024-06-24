@@ -32,6 +32,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
+> Concluido
 
 # Micro Certificações
 Futuramente
@@ -45,17 +46,15 @@ Futuramente
 
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>Objetivo do projeto é aprimorar os conhecimentos em analise de forecast e planejamneto de produção
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+>https://youtu.be/P4fUauxaqyQ
+![Slide1](https://github.com/LaireTome/API/assets/134020559/d2f722f1-1694-4954-9b80-378055721f9f)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
+
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
